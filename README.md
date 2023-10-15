@@ -1,1 +1,3 @@
-<h1 style="font-size: 36px;">Match 3 Game</h1>
+<h1 style="font-size: 36px;">Game Title: Match 3</h1>
+<h2 style="font-size: 24px;">Description</h2>
+<p style="font-size: 16px;">This Match 3 is a classic and addictive tile-matching puzzle game. Your objective is to swap adjacent tiles to create sets of three or more matching tiles in a row or column. When you match tiles, they disappear, and new ones fall from the top to fill the gaps. The game features colorful graphics, challenging levels, and power-ups to keep you engaged. Whether you're a casual gamer looking for some quick fun or a puzzle enthusiast seeking a brain-teasing challenge, this game offers hours of entertainment. Dive into the world of Match 3 puzzles and test your matching skills!</p>
